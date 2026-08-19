@@ -1,6 +1,6 @@
 ---
 name: martin-clean-code
-description: 'Knowledge base from "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin. Use when applying Martin\'s frameworks for writing clean, professional code, studying agile software craftsmanship, or referencing its principles and practices.'
+description: 'Knowledge base from "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin. Use when applying Martins''s frameworks for writing clean, professional code, studying agile software craftsmanship, or referencing its principles and practices.'
 ---
 
 <!-- argument-hint: [topic, framework name, or chapter number] -->
